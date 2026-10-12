@@ -108,7 +108,7 @@ No affiliation, endorsement, certification, or sponsorship by NIST is implied.
 
 NIST AI 100-2 is an external NIST publication. NIST remains the authoritative source for its content and terminology.
 
-This mapping cites and summarizes NIST concepts for interoperability and does not substantially reproduce the publication. This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This mapping cites and summarizes NIST concepts for interoperability and does not substantially reproduce the publication. This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 NIST names, publication identifiers, and any third-party material appearing in NIST publications remain subject to their applicable terms.
 
